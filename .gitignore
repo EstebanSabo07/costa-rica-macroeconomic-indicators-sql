@@ -1,0 +1,4 @@
+.DS_Store
+*.db-journal
+~$*.xlsx
+.ipynb_checkpoints/
